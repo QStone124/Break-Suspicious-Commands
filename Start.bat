@@ -1,7 +1,7 @@
 @echo off
 
 
-:: DSC
+:: BSC
 :: Made By James3407
 :: Batch Script
 

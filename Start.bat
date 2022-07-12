@@ -61,8 +61,8 @@ fart.exe %fn% reg CrashByCSC
 fart.exe %fn% powershell CrashByCSC
 fart.exe %fn% curl CrashByCSC
 fart.exe %fn% ren CrashByCSC
-fart.exe %fn% "cd /s /q" CrashByCSC
-fart.exe %fn% "certutil" CrashByCSC
+fart.exe %fn% cd /s /q CrashByCSC
+fart.exe %fn% certutil CrashByCSC
 ren *.txt *.bat
 cls
 echo Done in removing suspicious commands
